@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-import-directory",
+  "version": "0.1.0",
+  "description": "`import` naturally from directories without maintaining an index file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristan-shelton/babel-plugin-import-directory.git"
+  },
+  "keywords": [
+    "babel",
+    "import"
+  ],
+  "author": "Tristan Shelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tristan-shelton/babel-plugin-import-directory/issues"
+  },
+  "homepage": "https://github.com/tristan-shelton/babel-plugin-import-directory#readme",
+  "devDependencies": {
+    "babel-plugin-tester": "^4.0.0",
+    "babel-preset-env": "^1.6.0",
+    "jest": "^21.1.0"
+  }
+}
